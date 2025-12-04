@@ -75,19 +75,19 @@ The script will:
 
 ## Screenshots
 
-### Screenshot 1: Initial Setup and Configuration
+### Screenshot 1: Processing Anomaly-Based Detection
 ![Screenshot 1](screenshoots/1.jpg)
 
-### Screenshot 2: API Interaction and Response Parsing
+### Screenshot 2: Processing Standard Prompt Detection
 ![Screenshot 2](screenshoots/2.jpg)
 
-### Screenshot 3: Results Computation and Metrics
+### Screenshot 3: Processing Unusualness Prompt Detection
 ![Screenshot 3](screenshoots/3.jpg)
 
-### Screenshot 4: Visualization Generation
+### Screenshot 4: Computing Metrics and Visualization
 ![Screenshot 4](screenshoots/4.jpg)
 
-### Screenshot 5: Final Output and Summary
+### Screenshot 5: Final Output
 ![Screenshot 5](screenshoots/5.jpg)
 
 ### Feasibility Results Visualization
@@ -100,6 +100,3 @@ The script will:
 - Results are reproducible with the same API key and model version
 - Study demonstrates feasibility for the full research project
 
-## Repository
-
-GitHub: https://github.com/Mody2828/CMM302-Research-Proposal
