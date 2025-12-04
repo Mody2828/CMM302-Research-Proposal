@@ -100,3 +100,6 @@ The script will:
 - Results are reproducible with the same API key and model version
 - Study demonstrates feasibility for the full research project
 
+## AI Usage Acknowledgment
+
+I used ChatGPT (chatgpt.com) to help suggest code improvements and debugging.
