@@ -40,22 +40,22 @@
       "text": "I tried that new restaurant downtown last night. T...",
       "true_label": "Human",
       "prediction": "Human",
-      "score": 85.0,
-      "raw_response": "Answer: Human  \nConfidence: 85"
+      "score": 90.0,
+      "raw_response": "Answer: Human  \nConfidence: 90"
     },
     {
       "text": "My cat keeps knocking things off my desk. I don't ...",
       "true_label": "Human",
       "prediction": "Human",
-      "score": 90.0,
-      "raw_response": "Answer: Human  \nConfidence: 90"
+      "score": 85.0,
+      "raw_response": "Answer: Human  \nConfidence: 85"
     },
     {
       "text": "I'm reading this book about ancient civilizations,...",
       "true_label": "Human",
       "prediction": "Human",
-      "score": 85.0,
-      "raw_response": "Answer: Human  \nConfidence: 85"
+      "score": 90.0,
+      "raw_response": "Answer: Human  \nConfidence: 90"
     },
     {
       "text": "The traffic was terrible this morning. I was stuck...",
@@ -75,15 +75,15 @@
       "text": "I saw the most amazing sunset yesterday. The sky w...",
       "true_label": "Human",
       "prediction": "Human",
-      "score": 90.0,
-      "raw_response": "Answer: Human  \nConfidence: 90"
+      "score": 85.0,
+      "raw_response": "Answer: Human  \nConfidence: 85"
     },
     {
       "text": "I'm trying to decide what to cook for dinner tonig...",
       "true_label": "Human",
       "prediction": "Human",
-      "score": 90.0,
-      "raw_response": "Answer: Human  \nConfidence: 90"
+      "score": 85.0,
+      "raw_response": "Answer: Human  \nConfidence: 85"
     },
     {
       "text": "I had the weirdest dream last night. I was flying ...",
@@ -107,32 +107,32 @@
       "raw_response": "Answer: Human  \nConfidence: 90"
     },
     {
-      "text": "Machine learning algorithms work by analyzing and ...",
+      "text": "Machine learning algorithms work by identifying pa...",
       "true_label": "AI",
       "prediction": "AI",
       "score": 85.0,
       "raw_response": "Answer: AI  \nConfidence: 85"
     },
     {
-      "text": "Renewable energy sources, such as solar, wind, hyd...",
+      "text": "Renewable energy sources, such as solar, wind, and...",
       "true_label": "AI",
       "prediction": "AI",
-      "score": 80.0,
-      "raw_response": "Answer: AI  \nConfidence: 80"
+      "score": 85.0,
+      "raw_response": "Answer: AI  \nConfidence: 85"
     },
     {
-      "text": "Cloud computing is like using services and storage...",
+      "text": "Cloud computing is like using the internet to acce...",
       "true_label": "AI",
       "prediction": "AI",
-      "score": 80.0,
-      "raw_response": "Answer: AI  \nConfidence: 80"
+      "score": 85.0,
+      "raw_response": "Answer: AI  \nConfidence: 85"
     },
     {
-      "text": "Cybersecurity is crucial in today's digital age, w...",
+      "text": "Cybersecurity is crucial in today's digital age, a...",
       "true_label": "AI",
       "prediction": "AI",
-      "score": 80.0,
-      "raw_response": "Answer: AI  \nConfidence: 80"
+      "score": 85.0,
+      "raw_response": "Answer: AI  \nConfidence: 85"
     },
     {
       "text": "Artificial intelligence (AI) is significantly tran...",
@@ -149,7 +149,7 @@
       "raw_response": "Answer: AI  \nConfidence: 85"
     },
     {
-      "text": "Data science plays a pivotal role in modern busine...",
+      "text": "Data science plays a pivotal role in business by t...",
       "true_label": "AI",
       "prediction": "AI",
       "score": 85.0,
@@ -180,8 +180,8 @@
       "text": "Social media has profoundly transformed modern com...",
       "true_label": "AI",
       "prediction": "AI",
-      "score": 85.0,
-      "raw_response": "Answer: AI  \nConfidence: 85"
+      "score": 80.0,
+      "raw_response": "Answer: AI  \nConfidence: 80"
     },
     {
       "text": "Sure! Blockchain technology is like a digital ledg...",
@@ -225,14 +225,14 @@
       "true_label": "Human",
       "prediction": "AI",
       "score": 10.0,
-      "raw_response": "Unusualness: 10  \nAssessment: AI  \nExplanation: The text presents a common theme of discussing books..."
+      "raw_response": "Unusualness: 10  \nAssessment: AI  \nExplanation: The text presents a straightforward statement about ..."
     },
     {
       "text": "The traffic was terrible this morning. I was stuck...",
       "true_label": "Human",
       "prediction": "Human",
       "score": 10.0,
-      "raw_response": "Unusualness: 10  \nAssessment: Human  \nExplanation: The text describes a common human experience with..."
+      "raw_response": "Unusualness: 10  \nAssessment: Human  \nExplanation: The text expresses a personal experience and emot..."
     },
     {
       "text": "I've been learning to play the guitar, and it's ha...",
@@ -259,15 +259,15 @@
       "text": "I had the weirdest dream last night. I was flying ...",
       "true_label": "Human",
       "prediction": "Human",
-      "score": 65.0,
-      "raw_response": "Unusualness: 65  \nAssessment: Human  \nExplanation: The text describes a vivid and imaginative dream ..."
+      "score": 30.0,
+      "raw_response": "Unusualness: 30  \nAssessment: Human  \nExplanation: The text describes a vivid and imaginative dream,..."
     },
     {
       "text": "I'm working on a project for work, and it's taking...",
       "true_label": "Human",
       "prediction": "Human",
       "score": 10.0,
-      "raw_response": "Unusualness: 10  \nAssessment: Human  \nExplanation: The text reflects a personal experience and emoti..."
+      "raw_response": "Unusualness: 10  \nAssessment: Human  \nExplanation: The text reflects a common human experience of de..."
     },
     {
       "text": "I went for a walk in the park today, and I saw so ...",
@@ -277,88 +277,88 @@
       "raw_response": "Unusualness: 10  \nAssessment: Human  \nExplanation: The text describes a common, relatable experience..."
     },
     {
-      "text": "Machine learning algorithms work by analyzing and ...",
+      "text": "Machine learning algorithms work by identifying pa...",
       "true_label": "AI",
       "prediction": "AI",
       "score": 10.0,
-      "raw_response": "Unusualness: 10  \nAssessment: AI  \nExplanation: The text is highly technical and structured, resembl..."
+      "raw_response": "Unusualness: 10  \nAssessment: AI  \nExplanation: The text is highly technical and structured, typical..."
     },
     {
-      "text": "Renewable energy sources, such as solar, wind, hyd...",
-      "true_label": "AI",
-      "prediction": "AI",
-      "score": 20.0,
-      "raw_response": "Unusualness: 20  \nAssessment: AI  \nExplanation: The text is well-structured, informative, and presen..."
-    },
-    {
-      "text": "Cloud computing is like using services and storage...",
+      "text": "Renewable energy sources, such as solar, wind, and...",
       "true_label": "AI",
       "prediction": "AI",
       "score": 10.0,
-      "raw_response": "Unusualness: 10  \nAssessment: AI  \nExplanation: The text is clear, informative, and structured, whic..."
+      "raw_response": "Unusualness: 10  \nAssessment: AI  \nExplanation: The text is well-structured, informative, and covers..."
     },
     {
-      "text": "Cybersecurity is crucial in today's digital age, w...",
+      "text": "Cloud computing is like using the internet to acce...",
       "true_label": "AI",
       "prediction": "AI",
       "score": 20.0,
-      "raw_response": "Unusualness: 20  \nAssessment: AI  \nExplanation: The text is well-structured, informative, and uses f..."
+      "raw_response": "Unusualness: 20  \nAssessment: AI  \nExplanation: The text is clear, informative, and structured in a ..."
+    },
+    {
+      "text": "Cybersecurity is crucial in today's digital age, a...",
+      "true_label": "AI",
+      "prediction": "AI",
+      "score": 20.0,
+      "raw_response": "Unusualness: 20  \nAssessment: AI  \nExplanation: The text is well-structured and coherent, typical of..."
     },
     {
       "text": "Artificial intelligence (AI) is significantly tran...",
       "true_label": "AI",
       "prediction": "AI",
-      "score": 20.0,
-      "raw_response": "Unusualness: 20  \nAssessment: AI  \nExplanation: The text is structured, informative, and follows a c..."
+      "score": 10.0,
+      "raw_response": "Unusualness: 10  \nAssessment: AI  \nExplanation: The text is structured, informative, and presents co..."
     },
     {
       "text": "Supervised and unsupervised learning are two funda...",
       "true_label": "AI",
       "prediction": "AI",
       "score": 10.0,
-      "raw_response": "Unusualness: 10  \nAssessment: AI  \nExplanation: The text is structured, informative, and follows a l..."
+      "raw_response": "Unusualness: 10  \nAssessment: AI  \nExplanation: The text is highly structured, informative, and tech..."
     },
     {
-      "text": "Data science plays a pivotal role in modern busine...",
+      "text": "Data science plays a pivotal role in business by t...",
       "true_label": "AI",
       "prediction": "AI",
       "score": 20.0,
-      "raw_response": "Unusualness: 20  \nAssessment: AI  \nExplanation: The text is well-structured, informative, and uses c..."
+      "raw_response": "Unusualness: 20  \nAssessment: AI  \nExplanation: The text is well-structured and informative, typical..."
     },
     {
       "text": "Python has become one of the most popular programm...",
       "true_label": "AI",
       "prediction": "AI",
-      "score": 20.0,
-      "raw_response": "Unusualness: 20  \nAssessment: AI  \nExplanation: The text is structured, informative, and presents co..."
+      "score": 10.0,
+      "raw_response": "Unusualness: 10  \nAssessment: AI  \nExplanation: The text is well-structured, informative, and follow..."
     },
     {
       "text": "Neural networks are computational models inspired ...",
       "true_label": "AI",
       "prediction": "AI",
       "score": 10.0,
-      "raw_response": "Unusualness: 10  \nAssessment: AI  \nExplanation: The text is highly structured, technical, and inform..."
+      "raw_response": "Unusualness: 10  \nAssessment: AI  \nExplanation: The text is highly structured, informative, and tech..."
     },
     {
       "text": "The future of autonomous vehicles promises to revo...",
       "true_label": "AI",
       "prediction": "AI",
-      "score": 15.0,
-      "raw_response": "Unusualness: 15  \nAssessment: AI  \nExplanation: The text is well-structured, informative, and covers..."
+      "score": 20.0,
+      "raw_response": "Unusualness: 20  \nAssessment: AI  \nExplanation: The text is coherent, informative, and structured si..."
     },
     {
       "text": "Social media has profoundly transformed modern com...",
       "true_label": "AI",
       "prediction": "AI",
       "score": 20.0,
-      "raw_response": "Unusualness: 20  \nAssessment: AI  \nExplanation: The text presents a structured and coherent analysis..."
+      "raw_response": "Unusualness: 20  \nAssessment: AI  \nExplanation: The text presents a structured analysis of social me..."
     },
     {
       "text": "Sure! Blockchain technology is like a digital ledg...",
       "true_label": "AI",
       "prediction": "AI",
       "score": 20.0,
-      "raw_response": "Unusualness: 20  \nAssessment: AI  \nExplanation: The text is informative and structured, typical of A..."
+      "raw_response": "Unusualness: 20  \nAssessment: AI  \nExplanation: The text is structured, informative, and follows a c..."
     }
   ]
 }
