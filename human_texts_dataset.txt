@@ -1,0 +1,35 @@
+HUMAN TEXT DATASET
+==================
+This file contains the 12 human-authored texts used in the feasibility study.
+
+1. "I've been thinking about this problem for weeks now. The solution isn't obvious, but I think I'm getting closer."
+
+2. "The weather today is absolutely beautiful. I spent the morning in the garden, and it reminded me why I love spring so much."
+
+3. "I tried that new restaurant downtown last night. The food was okay, but honestly, I've had better."
+
+4. "My cat keeps knocking things off my desk. I don't know why she does this, but it's become a daily occurrence."
+
+5. "I'm reading this book about ancient civilizations, and it's fascinating how they built such complex structures."
+
+6. "The traffic was terrible this morning. I was stuck for almost an hour, which made me late for my meeting."
+
+7. "I've been learning to play the guitar, and it's harder than I thought. My fingers hurt, and I can't seem to get the chords right."
+
+8. "I saw the most amazing sunset yesterday. The sky was painted in shades of orange, pink, and purple."
+
+9. "I'm trying to decide what to cook for dinner tonight. I have some chicken in the fridge, but I'm not sure what to make."
+
+10. "I had the weirdest dream last night. I was flying over a city made of glass, and there were talking animals everywhere."
+
+11. "I'm working on a project for work, and it's taking longer than expected. There are so many details to consider."
+
+12. "I went for a walk in the park today, and I saw so many people out enjoying the nice weather."
+
+
+NOTES:
+- These texts were selected to represent natural, conversational human writing
+- They contain personal observations, casual language, and varied sentence structures
+- All 12 texts are used as the "Human" class in the feasibility study
+- The texts appear in positions 1-12 in the results arrays (indices 0-11)
+
