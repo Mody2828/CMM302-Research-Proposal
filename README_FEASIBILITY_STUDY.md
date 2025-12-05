@@ -73,6 +73,10 @@ The script will:
 
 **Unusualness Prompt**: "On a scale of 0-100, how unusual is this text compared to typical AI output? Respond with 'Assessment: [score]' and then 'Answer: Human' or 'Answer: AI'."
 
+### Pipeline Overview
+
+![Feasibility Study Pipeline](feasibility_pipeline.png)
+
 ## Screenshots
 
 ### Screenshot 1: Processing Anomaly-Based Detection
