@@ -75,7 +75,7 @@ The script will:
 
 ### Pipeline Overview
 
-![Feasibility Study Pipeline](feasibility_pipeline.png)
+![Feasibility Study Pipeline](screenshoots/feasibility_pipeline.png)
 
 ## Screenshots
 
